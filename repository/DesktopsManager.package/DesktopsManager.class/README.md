@@ -1,0 +1,1 @@
+I am a DesktopManager I manage announcement of windows opened and closed to maintain desktops in a coherent state according to reality.

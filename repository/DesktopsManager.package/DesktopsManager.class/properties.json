@@ -1,0 +1,16 @@
+{
+	"category" : "DesktopsManager",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/20/2015 19:39",
+	"instvars" : [
+		"currentDesktop",
+		"desktopList",
+		"desktopIndex" ],
+	"name" : "DesktopsManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

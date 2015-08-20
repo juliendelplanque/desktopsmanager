@@ -1,0 +1,14 @@
+{
+	"category" : "DesktopsManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/20/2015 19:37",
+	"instvars" : [
+		 ],
+	"name" : "DesktopsCategory",
+	"pools" : [
+		 ],
+	"super" : "KMCategory",
+	"type" : "normal" }

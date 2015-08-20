@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDesktopsManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDesktopsManager",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

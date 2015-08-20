@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addWindow:" : "JulienDelplanque 8/17/2015 22:30",
+		"initialize" : "JulienDelplanque 8/20/2015 21:00",
+		"isCurrentDesktop" : "JulienDelplanque 8/20/2015 20:54",
+		"isNotCurrentDesktop" : "JulienDelplanque 8/20/2015 20:57",
+		"isUseless" : "JulienDelplanque 8/20/2015 20:58",
+		"removeWindow:" : "JulienDelplanque 8/19/2015 18:30",
+		"setCurrentDesktop:" : "JulienDelplanque 8/20/2015 20:57",
+		"windowList" : "JulienDelplanque 8/17/2015 23:08" } }

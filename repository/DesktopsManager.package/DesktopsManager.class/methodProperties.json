@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"resetUniqueInstance" : "JulienDelplanque 8/20/2015 21:01",
+		"uniqueInstance" : "JulienDelplanque 8/20/2015 19:41" },
+	"instance" : {
+		"currentDesktop" : "JulienDelplanque 8/19/2015 09:54",
+		"desktopIndex" : "JulienDelplanque 8/19/2015 09:54",
+		"desktopList" : "JulienDelplanque 8/19/2015 09:54",
+		"initialize" : "JulienDelplanque 8/20/2015 21:02",
+		"nextDesktop" : "JulienDelplanque 8/20/2015 20:59",
+		"previousDesktop" : "JulienDelplanque 8/20/2015 21:00",
+		"removeUselessDesktops" : "JulienDelplanque 8/20/2015 20:59",
+		"updateCurrentDesktop" : "JulienDelplanque 8/20/2015 20:57",
+		"windowClosedAnnoucement:" : "JulienDelplanque 8/19/2015 16:58",
+		"windowOpenedAnnoucement:" : "JulienDelplanque 8/19/2015 18:30" } }

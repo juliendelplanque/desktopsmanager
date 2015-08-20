@@ -1,0 +1,14 @@
+{
+	"category" : "DesktopsManager",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/20/2015 20:35",
+	"instvars" : [
+		"textMorph" ],
+	"name" : "DesktopMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

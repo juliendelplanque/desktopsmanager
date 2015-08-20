@@ -1,0 +1,3 @@
+accessing
+isNotCurrentDesktop
+	^ isCurrentDesktop not

@@ -1,0 +1,15 @@
+{
+	"category" : "DesktopsManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/20/2015 19:36",
+	"instvars" : [
+		"windowList",
+		"isCurrentDesktop" ],
+	"name" : "Desktop",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

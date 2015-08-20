@@ -1,0 +1,1 @@
+I am a DesktopMorph I represent the current desktop using its number.
