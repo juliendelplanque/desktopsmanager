@@ -5,5 +5,5 @@ baseline: spec
 		for: #common
 		do: [ 
 			spec
-				package: 'Desktops';
+				package: 'DesktopsManager';
 				postLoadDoIt: #install ]
