@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 8/20/2015 20:35",
 	"instvars" : [
-		"textMorph" ],
+		"textMorph",
+		"alpha" ],
 	"name" : "DesktopMorph",
 	"pools" : [
 		 ],
