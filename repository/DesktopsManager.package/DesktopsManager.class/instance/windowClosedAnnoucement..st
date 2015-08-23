@@ -1,3 +1,3 @@
 announcement handling
 windowClosedAnnoucement: announcement
-	currentDesktop removeWindow: (announcement window)
+	desktopList do: [ :desktop | desktop removeWindow: announcement window ]
