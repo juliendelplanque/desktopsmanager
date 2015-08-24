@@ -1,3 +1,3 @@
 instance access
 resetUniqueInstance
-	uniqueInstance := DesktopsManager new.
+	uniqueInstance := self new.
