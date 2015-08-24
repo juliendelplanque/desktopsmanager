@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"worlds",
-		"worldIndex" ],
+		"worldIndex",
+		"pharoImage" ],
 	"name" : "WorldsManager",
 	"pools" : [
 		 ],
