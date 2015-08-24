@@ -1,3 +1,3 @@
 instance access
 uniqueInstance
-	^ uniqueInstance ifNil: [ uniqueInstance := DesktopsManager new ]
+	^ uniqueInstance ifNil: [ uniqueInstance := self class new ]
