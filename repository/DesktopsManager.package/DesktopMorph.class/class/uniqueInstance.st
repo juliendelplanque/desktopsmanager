@@ -1,3 +1,3 @@
-as yet unclassified
+instance access
 uniqueInstance
-	^ uniqueInstance ifNil: [ uniqueInstance := DesktopMorph new ]
+	^ uniqueInstance ifNil: [ uniqueInstance := self class new ]
