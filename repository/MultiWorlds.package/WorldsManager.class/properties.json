@@ -1,0 +1,15 @@
+{
+	"category" : "MultiWorlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"worlds",
+		"worldIndex" ],
+	"name" : "WorldsManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

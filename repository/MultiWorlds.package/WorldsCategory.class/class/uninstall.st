@@ -1,0 +1,3 @@
+uninstallation
+uninstall
+	KMRepository default globalCategories remove: self uniqueInstance

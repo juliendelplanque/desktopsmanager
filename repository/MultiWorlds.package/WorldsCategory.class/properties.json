@@ -1,0 +1,14 @@
+{
+	"category" : "MultiWorlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WorldsCategory",
+	"pools" : [
+		 ],
+	"super" : "KMCategory",
+	"type" : "normal" }
