@@ -5,4 +5,5 @@ previousWorld
 	
 	worldIndex := worldIndex - 1.
 	(worlds at: worldIndex) install.
-	Display restore
+	Display restore.
+	self cleanUselessWorlds
