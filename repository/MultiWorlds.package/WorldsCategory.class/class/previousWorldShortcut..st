@@ -1,3 +1,3 @@
 shortcuts
-previousDesktopShortcut: aShortcut
+previousWorldShortcut: aShortcut
 	PreviousDesktopShortcut := aShortcut

@@ -1,3 +1,3 @@
 shortcuts
-nextDesktopShortcut
+nextWorldShortcut
 	^NextDesktopShortcut ifNil: [ $j control shift ]

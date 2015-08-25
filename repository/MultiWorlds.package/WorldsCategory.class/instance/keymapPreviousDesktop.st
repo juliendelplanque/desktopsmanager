@@ -2,5 +2,5 @@ keymaps
 keymapPreviousDesktop
 	<shortcut>
 	^ KMKeymap
-			shortcut: self class previousDesktopShortcut
+			shortcut: self class previousWorldShortcut
 			action: [ self class keymapPreviousDesktopAction ]
