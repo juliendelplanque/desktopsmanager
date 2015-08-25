@@ -1,4 +1,4 @@
-as yet unclassified
+worlds management
 nextWorld
 	self isCurrentWorldUsed ifFalse: [ ^self ].
 	

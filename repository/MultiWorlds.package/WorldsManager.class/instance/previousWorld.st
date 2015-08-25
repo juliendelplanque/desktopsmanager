@@ -1,4 +1,4 @@
-as yet unclassified
+worlds management
 previousWorld
 	self hasPreviousWorld
 		ifFalse: [ ^self ].

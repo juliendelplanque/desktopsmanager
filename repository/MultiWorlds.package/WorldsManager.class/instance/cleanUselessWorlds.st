@@ -1,4 +1,4 @@
-as yet unclassified
+worlds management
 cleanUselessWorlds
 	(worlds size = worldIndex) ifTrue: [ ^self ].
 	

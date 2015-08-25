@@ -1,4 +1,4 @@
-as yet unclassified
+worlds management
 createNewWorld
 	| newWorld |
 	newWorld := WorldMorph new.

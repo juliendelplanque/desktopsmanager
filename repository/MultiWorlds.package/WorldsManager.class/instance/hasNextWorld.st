@@ -1,3 +1,3 @@
-as yet unclassified
+worlds management
 hasNextWorld
 	^(worlds size > worldIndex)
