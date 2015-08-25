@@ -1,3 +1,3 @@
-as yet unclassified
+actions
 keymapNextDesktopAction
 	WorldsManager uniqueInstance nextWorld

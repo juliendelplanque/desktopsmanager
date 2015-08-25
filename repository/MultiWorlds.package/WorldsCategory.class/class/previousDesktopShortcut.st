@@ -1,3 +1,3 @@
 shortcuts
 previousDesktopShortcut
-	^$k control shift
+	^PreviousDesktopShortcut ifNil: [ $k control shift ]

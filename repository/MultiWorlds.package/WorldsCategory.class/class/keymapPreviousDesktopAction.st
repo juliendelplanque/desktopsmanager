@@ -1,3 +1,3 @@
-as yet unclassified
+actions
 keymapPreviousDesktopAction
 	WorldsManager uniqueInstance previousWorld

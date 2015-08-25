@@ -1,3 +1,3 @@
 shortcuts
 nextDesktopShortcut
-	^$j control shift
+	^NextDesktopShortcut ifNil: [ $j control shift ]
