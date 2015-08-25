@@ -1,3 +1,0 @@
-instance accessing
-default
-	^Singleton

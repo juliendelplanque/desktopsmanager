@@ -1,3 +1,3 @@
 shortcuts
-defaultNextDesktopShortcut
+nextDesktopShortcut
 	^$j control shift

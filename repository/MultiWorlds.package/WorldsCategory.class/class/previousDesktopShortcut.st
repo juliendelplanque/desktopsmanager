@@ -1,3 +1,3 @@
 shortcuts
 previousDesktopShortcut
-	^previousDesktopShortcut
+	^$k control shift
