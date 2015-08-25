@@ -1,3 +1,3 @@
 installation
 isInstalled
-	^ IsInstalled ifNil: [ IsInstalled := false ]
+	^ KMRepository default globalCategories anySatisfy: [ :cat | cat class = self ]
