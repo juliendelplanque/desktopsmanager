@@ -2,5 +2,5 @@ keymaps
 keymapPreviousDesktop
 	<shortcut>
 	^ KMKeymap
-			shortcut: $k control shift
+			shortcut: self previousDesktopShortcut
 			action: [ WorldsManager uniqueInstance previousWorld ]

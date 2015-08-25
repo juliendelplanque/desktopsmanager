@@ -2,5 +2,5 @@ keymaps
 keymapNextDesktop
 	<shortcut>
 	^ KMKeymap
-			shortcut: $j control shift
+			shortcut: self nextDesktopShortcut
 			action: [ WorldsManager uniqueInstance nextWorld ]
