@@ -3,6 +3,7 @@
 		"reset" : "JulienDelplanque 8/24/2015 23:45",
 		"uniqueInstance" : "JulienDelplanque 8/24/2015 22:13" },
 	"instance" : {
+		"announcer" : "JulienDelplanque 8/25/2015 14:07",
 		"cleanUselessWorlds" : "JulienDelplanque 8/25/2015 00:01",
 		"createNewWorld" : "JulienDelplanque 8/25/2015 14:05",
 		"hasNextWorld" : "JulienDelplanque 8/24/2015 22:18",
@@ -10,6 +11,6 @@
 		"initialize" : "JulienDelplanque 8/24/2015 23:43",
 		"isCurrentWorldUsed" : "JulienDelplanque 8/24/2015 23:52",
 		"isWorldUsed:" : "JulienDelplanque 8/24/2015 23:52",
-		"nextWorld" : "JulienDelplanque 8/25/2015 00:04",
-		"previousWorld" : "JulienDelplanque 8/25/2015 00:02",
+		"nextWorld" : "JulienDelplanque 8/25/2015 14:12",
+		"previousWorld" : "JulienDelplanque 8/25/2015 14:15",
 		"worlds" : "JulienDelplanque 8/24/2015 23:47" } }
