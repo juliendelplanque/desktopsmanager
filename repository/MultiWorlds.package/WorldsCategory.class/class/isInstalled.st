@@ -1,3 +1,3 @@
 installation
 isInstalled
-	^ IsInstalled
+	^ IsInstalled ifNil: [ IsInstalled := false ]
