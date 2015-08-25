@@ -1,4 +1,4 @@
 installation
 install
 	"Install shortcuts."
-	(Smalltalk at: #WorldsCategory) install
+	KMRepository default setAsGlobalCategory: WorldsCategory uniqueInstance
