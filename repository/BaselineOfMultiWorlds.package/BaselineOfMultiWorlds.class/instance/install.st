@@ -1,4 +1,4 @@
 installation
 install
 	"Install shortcuts."
-	WorldsCategory install
+	(Smalltalk at: #WorldsCategory) install
