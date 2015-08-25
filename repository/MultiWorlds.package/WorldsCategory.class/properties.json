@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"UniqueInstance" ],
+		"Singleton" ],
 	"commentStamp" : "JulienDelplanque 8/25/2015 13:53",
 	"instvars" : [
 		"nextDesktopShortcut",
