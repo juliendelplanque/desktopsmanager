@@ -1,8 +1,9 @@
 {
 	"class" : {
-		"install" : "JulienDelplanque 8/24/2015 23:05",
+		"install" : "JulienDelplanque 8/25/2015 13:57",
+		"isInstalled" : "JulienDelplanque 8/25/2015 13:55",
 		"reinstall" : "JulienDelplanque 8/25/2015 13:43",
-		"uninstall" : "JulienDelplanque 8/24/2015 23:07",
+		"uninstall" : "JulienDelplanque 8/25/2015 13:57",
 		"uniqueInstance" : "JulienDelplanque 8/24/2015 23:04" },
 	"instance" : {
 		"defaultNextDesktopShortcut" : "JulienDelplanque 8/25/2015 13:44",
