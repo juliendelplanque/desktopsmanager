@@ -1,4 +1,4 @@
-as yet unclassified
+keymaps
 keymapPreviousDesktop
 	<shortcut>
 	^ KMKeymap
