@@ -2,8 +2,9 @@
 	"class" : {
 		"uniqueInstance" : "JulienDelplanque 8/24/2015 20:16" },
 	"instance" : {
+		"desktopChanged:" : "JulienDelplanque 12/17/2015 08:50",
 		"desktopNumber:" : "JulienDelplanque 8/20/2015 20:44",
-		"initialize" : "JulienDelplanque 8/24/2015 16:33",
+		"initialize" : "JulienDelplanque 12/17/2015 08:48",
 		"morphicLayerNumber" : "JulienDelplanque 8/23/2015 10:03",
 		"startStepping" : "JulienDelplanque 8/23/2015 19:55",
 		"step" : "JulienDelplanque 8/23/2015 19:57",

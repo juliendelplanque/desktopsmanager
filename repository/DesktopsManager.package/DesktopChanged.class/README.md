@@ -1,0 +1,1 @@
+I am announcing the fact that the current desktop of the DesktopManager changed.

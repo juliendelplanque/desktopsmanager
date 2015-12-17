@@ -8,7 +8,9 @@
 	"instvars" : [
 		"currentDesktop",
 		"desktopList",
-		"desktopIndex" ],
+		"desktopIndex",
+		"changedDesktops",
+		"announcer" ],
 	"name" : "DesktopsManager",
 	"pools" : [
 		 ],

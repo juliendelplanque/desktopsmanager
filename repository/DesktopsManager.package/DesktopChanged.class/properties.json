@@ -1,0 +1,15 @@
+{
+	"category" : "DesktopsManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/17/2015 08:41",
+	"instvars" : [
+		"newDesktop",
+		"newDesktopIndex" ],
+	"name" : "DesktopChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

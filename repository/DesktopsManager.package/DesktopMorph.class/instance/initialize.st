@@ -9,3 +9,4 @@ initialize
 	textMorph := TextMorph new contents: '1'.
 	self addMorph: textMorph.
 	textMorph setToAdhereToEdge: #bottomRight.
+	DesktopsManager uniqueInstance announcer on: DesktopChanged send: #desktopChanged: to: self
