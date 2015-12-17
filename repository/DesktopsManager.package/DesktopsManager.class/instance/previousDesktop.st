@@ -7,7 +7,9 @@ previousDesktop
 		currentDesktop setCurrentDesktop: false.
 		desktopIndex := desktopIndex - 1.
 		self updateCurrentDesktop.
-		changedDesktops := self currentDesktop windowsCount.
+		self desktopChangedByUser
+			ifFalse: [ changedDesktops := self currentDesktop windowsCount ]
+			ifTrue: [ changedDesktops := -1 ].
 		"Open all windows of previous desktop"
 		currentDesktop windowList do: #expand.
 		self removeUselessDesktops ].

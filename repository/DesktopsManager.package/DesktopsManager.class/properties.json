@@ -10,7 +10,8 @@
 		"desktopList",
 		"desktopIndex",
 		"changedDesktops",
-		"announcer" ],
+		"announcer",
+		"desktopChangedByUser" ],
 	"name" : "DesktopsManager",
 	"pools" : [
 		 ],

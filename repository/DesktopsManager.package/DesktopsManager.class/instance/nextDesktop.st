@@ -9,7 +9,9 @@ nextDesktop
 			ifTrue: [ desktopList add: Desktop new ].
 		currentDesktop setCurrentDesktop: false.
 		self updateCurrentDesktop.
-		changedDesktops := self currentDesktop windowsCount.
+		self desktopChangedByUser
+			ifFalse: [ changedDesktops := self currentDesktop windowsCount ]
+			ifTrue: [ changedDesktops := -1 ].
 		"Open all windows of next desktop"
 		currentDesktop windowList do: #expand.
 		self removeUselessDesktops ]
