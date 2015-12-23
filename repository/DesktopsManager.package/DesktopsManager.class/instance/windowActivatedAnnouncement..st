@@ -1,0 +1,3 @@
+announcement handling
+windowActivatedAnnouncement: announcement
+	self currentDesktop setOnTop: announcement window

@@ -3,7 +3,7 @@
 		"resetUniqueInstance" : "JulienDelplanque 8/24/2015 20:15",
 		"uniqueInstance" : "JulienDelplanque 8/24/2015 20:15" },
 	"instance" : {
-		"addOpenedWindowsToDesktop" : "JulienDelplanque 8/24/2015 16:18",
+		"addOpenedWindowsToDesktop" : "JulienDelplanque 12/17/2015 11:28",
 		"announcer" : "JulienDelplanque 12/17/2015 08:42",
 		"currentDesktop" : "JulienDelplanque 8/19/2015 09:54",
 		"desktopChangedByUser" : "JulienDelplanque 12/17/2015 09:38",
@@ -11,10 +11,11 @@
 		"desktopIndex" : "JulienDelplanque 8/19/2015 09:54",
 		"desktopList" : "JulienDelplanque 8/19/2015 09:54",
 		"initialize" : "JulienDelplanque 12/14/2015 08:50",
-		"nextDesktop" : "JulienDelplanque 12/17/2015 10:43",
-		"previousDesktop" : "JulienDelplanque 12/17/2015 10:44",
+		"nextDesktop" : "JulienDelplanque 12/23/2015 18:17",
+		"previousDesktop" : "JulienDelplanque 12/23/2015 18:17",
 		"removeUselessDesktops" : "JulienDelplanque 8/20/2015 20:59",
 		"updateCurrentDesktop" : "JulienDelplanque 12/17/2015 08:46",
+		"windowActivatedAnnouncement:" : "JulienDelplanque 12/17/2015 11:09",
 		"windowClosedAnnoucement:" : "JulienDelplanque 12/17/2015 10:48",
-		"windowExpandedAnnouncement:" : "JulienDelplanque 12/17/2015 10:48",
-		"windowOpenedAnnoucement:" : "JulienDelplanque 12/17/2015 10:48" } }
+		"windowExpandedAnnouncement:" : "JulienDelplanque 12/23/2015 17:54",
+		"windowOpenedAnnoucement:" : "JulienDelplanque 12/23/2015 18:11" } }

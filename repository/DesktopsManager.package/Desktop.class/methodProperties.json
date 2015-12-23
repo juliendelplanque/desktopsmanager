@@ -2,14 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addAllWindows:" : "JulienDelplanque 8/24/2015 16:01",
+		"addAllWindows:" : "JulienDelplanque 12/17/2015 11:27",
 		"addWindow:" : "JulienDelplanque 8/17/2015 22:30",
+		"collapseWindows" : "JulienDelplanque 12/23/2015 18:16",
 		"containsWindow:" : "JulienDelplanque 12/14/2015 08:46",
+		"expandWindows" : "JulienDelplanque 12/23/2015 18:16",
 		"initialize" : "JulienDelplanque 8/20/2015 21:00",
 		"isCurrentDesktop" : "JulienDelplanque 8/20/2015 20:54",
 		"isNotCurrentDesktop" : "JulienDelplanque 8/20/2015 20:57",
 		"isUseless" : "JulienDelplanque 8/20/2015 20:58",
 		"removeWindow:" : "JulienDelplanque 8/24/2015 17:08",
 		"setCurrentDesktop:" : "JulienDelplanque 8/20/2015 20:57",
+		"setOnTop:" : "JulienDelplanque 12/23/2015 17:56",
 		"windowList" : "JulienDelplanque 8/17/2015 23:08",
 		"windowsCount" : "JulienDelplanque 12/14/2015 08:51" } }
