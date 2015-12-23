@@ -6,6 +6,6 @@ addOpenedWindowsToDesktop
 					morph class = SystemWindow or: [ SystemWindow allSubclasses contains: [ :class | class = morph class ] ] ].
 	self currentDesktop addAllWindows: windows.
 	windows do: [ :window |
-		window
+		window announcer
 			when: WindowExpanded send: #windowExpandedAnnouncement: to: self;
 			when: WindowActivated send: #windowActivatedAnnouncement: to: self ]
